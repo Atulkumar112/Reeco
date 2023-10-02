@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Lorem ipsum dolor sit amet",
+      "brand": "myBrand",
+      "price": 50,
+      "quantity": 2,
+      "total": 100
+    },
+    {
+      "id": 2,
+      "name": "Lorem ipsum dolor sit amet",
+      "brand": "myBrand",
+      "price": 70,
+      "quantity": 3,
+      "total": 210
+    },
+    {
+      "id": 3,
+      "name": "Lorem ipsum dolor sit amet",
+      "brand": "myBrand",
+      "price": 20,
+      "quantity": 4,
+      "total": 80
+    },
+    {
+      "id": 4,
+      "name": "Lorem ipsum dolor sit amet",
+      "brand": "myBrand",
+      "price": 50,
+      "quantity": 2,
+      "total": 100
+    }
+  ]
+}
